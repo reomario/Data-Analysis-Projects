@@ -32,6 +32,8 @@ For our Analysis we will answer the following Questions:
 
 ### Putting it All Together: Visualisations & Summery 
 
+![alt text](https://github.com/reomario/Data-Analysis-Projects/blob/main/Disney%20Movies/Report.PNG)
+
 
 ### Built With:
 * Jupyter NoteBook
