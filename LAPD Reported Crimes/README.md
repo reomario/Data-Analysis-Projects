@@ -38,7 +38,7 @@ For our Analysis we will answer the following Questions:
 
 ### Putting it All Together: Visualisations & Summery
 
-[alt text](https://github.com/reomario/Data-Analysis-Projects/blob/main/LAPD%20Reported%20Crimes/LAPD%20Dashboard.PNG)
+![alt text](https://github.com/reomario/Data-Analysis-Projects/blob/main/LAPD%20Reported%20Crimes/LAPD%20Dashboard.PNG)
 
 ### Built With :
 * Jupyter NoteBook
