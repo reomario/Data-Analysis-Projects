@@ -1,1 +1,11 @@
+# Executive Summary
+This notebook analyzed McDonald's revenue breakdown from 2021 to 2024 using both Exploratory Data Analysis (EDA) and Machine Learning (ML).
 
+### Key takeaways:
+
+* Revenue has shown a consistent upward trend over the 4 years.
+* Franchised operations contribute more to total revenue than company-operated segments.
+* We used Linear Regression and Random Forest models to predict 2024 revenue.
+* The Linear Regression outperformed Random Forest model, achieving a higher R² score and lower error.
+* Predictive modeling is feasible for estimating future revenue based on historical data.
+* This analysis can help stakeholders make informed decisions based on data-driven revenue forecasting.
