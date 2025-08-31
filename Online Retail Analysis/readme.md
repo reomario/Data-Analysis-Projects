@@ -34,4 +34,6 @@ To sustain and accelerate this growth, the company should focus on enhancing its
 3. **Targeted Marketing:** Use the insights about loyal customers to create look-alike audiences for marketing campaigns to acquire new customers who share similar characteristics and are more likely to become repeat buyers.
 4. **Investigate the September 2011 Spike:** Further research the period starting in September 2011 to identify the specific factors that contributed to the sales increase. This could be a seasonal trend, a marketing campaign, or a change in product offering. Replicating these successful strategies in the future will be crucial for continued growth.
 
-5. Thank You.
+
+
+Thank You.
